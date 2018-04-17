@@ -1,4 +1,4 @@
-# Classification of Sentinel-2 Multispectral Images using Deep Neural Network in R-H2O (Windows 10)
+#  Deep Neural Network with H20-R: Satellite-Image Classification
 
 This tutorial will show how to implement [Deep Neural Network](https://en.wikipedia.org/wiki/Deep_learning) for pixel based [supervised classification](https://gis.stackexchange.com/questions/237461/distinction-between-pixel-based-and-object-based-classification) of [Sentinel-2 multispectral images](https://sentinel.esa.int/web/sentinel/missions/sentinel-2) using [H20](http://h2o-release.s3.amazonaws.com/h2o/rel-lambert/5/docs-website/Ruser/Rinstall.html) package in [R](https://cloud.r-project.org/). 
 
